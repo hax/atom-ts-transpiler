@@ -10,6 +10,9 @@
     "atom-ts-transpiler": "file:../..",
     "typescript": "latest"
   },
+  "devDependencies": {
+    "tslint": "^5.7.0"
+  },
   "atomTranspilers": [
     {
       "transpiler": "atom-ts-transpiler",
